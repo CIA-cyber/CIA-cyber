@@ -1,16 +1,34 @@
-## Hi there 👋
+# <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh5MG9oem82cDNuOWt4OWJoeHV1bW5ucWpkODkyb2RiNW85bGdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/> ¡Buenas! Soy CIA
+ Estudiante de Ingeniería en Sistemas
 
-<!--
-**CIA-cyber/CIA-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por la programación y el desarrollo de soluciones creativas. Actualmente estoy cursando Ingeniería en Sistemas y enfocado en mejorar mis habilidades técnicas mientras construyo proyectos reales.
 
-Here are some ideas to get you started:
+### 💻 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
+| **Backend & DB** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+| **Automatización** | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+
+---
+
+### 🛠️ Proyectos en curso
+
+* **Sitio Web Institucional (HTML5):** Desarrollo de una plataforma web para una institución escolar, enfocada en la preservación de su historia y origen.
+* **Chatbot para WhatsApp (Python):** Creación de un asistente automatizado inteligente para la gestión de mensajes.
+* **Videojuego Arcade (Python):** Desarrollo de un juego de estilo retro, actualmente en **fase de pruebas**.
+
+---
+
+### 🌱 Actualmente estoy
+- Aprendiendo más sobre backend y bases de datos.
+- Construyendo proyectos personales con Python y JavaScript.
+- Explorando automatizaciones con n8n.
+
+¡Gracias por visitar mi perfil! 🚀 
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/ikabeee/ikabeee/output/snake.svg)
