@@ -1,7 +1,7 @@
 # <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh5MG9oem82cDNuOWt4OWJoeHV1bW5ucWpkODkyb2RiNW85bGdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/> ¡Buenas! Soy CIA
- Estudiante de Ingeniería en Sistemas
+ Estudiante de Ingeniería en Informática 
 
-Apasionado por la programación y el desarrollo de soluciones creativas. Actualmente estoy cursando Ingeniería en Sistemas y enfocado en mejorar mis habilidades técnicas mientras construyo proyectos reales.
+Apasionado por la programación y el desarrollo de soluciones creativas. Actualmente estoy cursando Ingeniería en Informática enfocado en mejorar mis habilidades técnicas mientras construyo proyectos reales.
 
 ### 💻 Tecnologías y Herramientas
 
@@ -12,13 +12,6 @@ Apasionado por la programación y el desarrollo de soluciones creativas. Actualm
 | **Automatización** | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) |
 | **Herramientas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
 
----
-
-### 🛠️ Proyectos en curso
-
-* **Sitio Web Institucional (HTML5):** Desarrollo de una plataforma web para una institución escolar, enfocada en la preservación de su historia y origen.
-* **Chatbot para WhatsApp (Python):** Creación de un asistente automatizado inteligente para la gestión de mensajes.
-* **Videojuego Arcade (Python):** Desarrollo de un juego de estilo retro, actualmente en **fase de pruebas**.
 
 ---
 
